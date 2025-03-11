@@ -1,4 +1,6 @@
-## Challenge Carestino
+## Challenge Carestino 
+
+![](https://carestino.cc/_ASSETSERVER/img/favicon/favicon-96x96.png)
 
 Se creo el proyecto con React + Vite + PNPM
 
@@ -33,10 +35,27 @@ paint/
 └─ vite.config.js
 ```
 
-### instalacion
+## Ejecutarlo de forma local
+
+Clonar el proyecto
+
+```bash
+  git clone https://github.com/FrancoAguero/challenge-carestino.git
+```
+
+Ir al directorio
+
+```bash
+  cd challenge-carestino
+```
+
+Instalar dependencias
 
 ```bash
   pnpm install
-
-  pnpm run dev
 ```
+
+Iniciar Proyecto
+
+```bash
+  pnpm run dev
